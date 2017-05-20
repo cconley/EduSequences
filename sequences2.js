@@ -10,13 +10,14 @@ var b = {
 
 // Mapping of step names to colors.
 var colors = {
-  "Academic": "#5687d1",
-  "Applied": "#7b615c",
-  "Locally Developed": "#de783b",
-  "Open": "#6ab975",
-  "University": "#a173d1",
-  "College": "#bbbbbb",
-  "Workplace": "#273746",
+  "Academic": "#21618C",
+  "Applied": "#1E8449",
+  "College": "#52BE80",
+  "Locally Developed": "#E59866",
+  "Open": "#5D6D7E",
+  "University": "#3498DB",
+  "Workplace": "#AF7AC5",
+  "end": "#B2BABB"
 };
 
 // Total size of all segments; we set this later, after loading the data.
