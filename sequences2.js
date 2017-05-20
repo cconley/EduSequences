@@ -15,7 +15,8 @@ var colors = {
   "Locally Developed": "#de783b",
   "Open": "#6ab975",
   "University": "#a173d1",
-  "College": "#bbbbbb"
+  "College": "#bbbbbb",
+  "Workplace": "#273746",
 };
 
 // Total size of all segments; we set this later, after loading the data.
